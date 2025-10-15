@@ -1,18 +1,3 @@
-# my-first-kali-nmap-scanning
-kali-nmap-scans/
-├── .gitignore
-├── LICENSE
-├── README.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── scripts/
-│   ├── nmap_scan.sh
-│   └── parse_nmap_xml.py
-├── scans/
-│   └── (output stored here)
-└── .github/
-    └── workflows/
-        └── lint.yml
 # Nmap scan output
 scans/
 *.gnmap
